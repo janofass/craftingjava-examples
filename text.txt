@@ -1,0 +1,36 @@
+Practice Test System: 
+------------------------------------------------------------------------------------------------
+Unlike other online test offered by current 11+ websites, the proposed test system will include 
+a) Detailed explaination of related Concept
+b) Valuation with respect to other participants
+c) Interactive 
+d) Option of turning off timer ?
+e) Detailed Test Report
+f) Action Items 
+9) Comparison with previous test 
+
+a) As each question is "linked" to its Topic or concept, we can provide explaination why the 
+correct option is correct and incorrect options are incorrect. Some study materials can also be 
+referred. 
+
+b) For each question, it informs the student how much % have correctly answered this question. 
+It helps the parent to evaluate the competency level of student related with other students. Either 
+he/she is among Top 10% or Top 20% in that Topic.
+
+c) Interactive question means, with each correct or incorrect answer, the "level" of competency of 
+next question be either higher or lower. First question will be of mid "level", the next question 
+will move in either direction.
+
+d) Practice test can be either Timer based. User may also have option to pause the timer at any time.
+
+e) Instead of just giving a test score, the Test report would provide evaluation per each Topic. It 
+classify student either "competent", "moderate" or "need improvement" per Topic.
+
+f) This is the most important step as it suggest parents what are Top 3 areas to focus. It simulates 
+that if the student would have done better in these areas, the overall score would jump from current 
+score of 73% to 79%. It generates a bell shape curve using student score with respect to other 
+sample scores. 
+
+g) Comparison report with previous test scores. Graph that keep track of students scores over time 
+and we can use apply Bayesian probability to "predict" likelihood of student making it to Grammar 
+school. Provided that we accumulate enough data in 1-2 years.
